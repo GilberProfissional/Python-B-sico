@@ -1,2 +1,3 @@
 # Python-Básico
-Algumas formulas simples para quem está iniciando os estudos em Python assim como eu
+Programei algumas formulas simples para problemas do dia a dia e fiz a resolução de alguns exeercícios, o enunciado dos exercícios está na própria página do código. 
+Usei para tal o  Pycharm,versão 2024.1.2
